@@ -26,7 +26,7 @@ const ContactInfo = () => {
           <hr className="hr-light w-25" />
           <h3>E-mail</h3>
           <hr className="hr-dark w-25" />
-          <a href="mailto:collinhodgs@gmail.com">
+          <a href="mailto:Derek.kilgore@gmail.com">
             <MDBIcon icon="envelope" /> Derek.kilgore@gmail.com
           </a>
         </MDBCol>

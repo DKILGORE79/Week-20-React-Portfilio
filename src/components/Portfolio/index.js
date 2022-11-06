@@ -1,4 +1,5 @@
 import React from "react";
+
 import {
   MDBCardGroup,
   MDBIcon,
@@ -17,19 +18,19 @@ const Projects = () => {
       <MDBCardGroup deck className="mt-3">
         <MDBCard className="border border-dark">
           <MDBCardImage
-            className="img-fluid"
+            style={{ width: "485px" }}
             src=""
-            alt="Team Generator"
+            alt="Pro_Readme_Generator
+            "
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Team Profile Generator</MDBCardTitle>
+            <MDBCardTitle tag="h5">Readme Generator</MDBCardTitle>
             <MDBCardText>
-              A command line application that allows the user to add and remove
-              employees with their employee information
+            ""
             </MDBCardText>
             <MDBBtn
-              href="https://github.com/DKILGORE79/week-10-Team-Profile-Generator"
+              href="https://github.com/DKILGORE79/Pro_Readme_Generator"
               color="primary"
               size="md"
             >
@@ -43,7 +44,7 @@ const Projects = () => {
           <MDBCardImage
             style={{ height: "225px" }}
             className="img-fluid"
-            src=""
+            src="https://user-images.githubusercontent.com/98043070/200177191-3c1c0a68-a24e-4e0a-b931-980185ae9401.png"
             alt="Weather"
             top
           />
@@ -67,7 +68,7 @@ const Projects = () => {
         <MDBCard className="border border-dark">
           <MDBCardImage
             style={{ height: "205px" }}
-            src="https://"
+            src="https://user-images.githubusercontent.com/98043070/200177208-c08250b1-2a5e-4ede-8cee-9b54b7d99ce3.png"
             alt="Planner"
             top
           />
@@ -91,7 +92,7 @@ const Projects = () => {
 {/* ============================================================================================== */}
         <MDBCard className="border border-dark">
           <MDBCardImage
-            src=""
+            src="https://user-images.githubusercontent.com/98043070/200177789-6e15be12-946e-42c7-8b81-3994f8831351.png"
             alt="Password"
             top
           />
@@ -115,8 +116,8 @@ const Projects = () => {
 {/* ========================================================================================= */}
         <MDBCard className="border border-dark">
           <MDBCardImage
-            src=""
-            alt="Password"
+            src="https://user-images.githubusercontent.com/98043070/200177993-c2a5433b-f37a-461c-85d8-c0860845fb6c.png"
+            alt="Trivia Quiz"
             top
           />
           <MDBCardBody>
@@ -136,7 +137,36 @@ const Projects = () => {
             </MDBBtn>
           </MDBCardBody>
         </MDBCard>
+{/* ================================================================================================== */}
+        <MDBCard className="border border-dark">
+          <MDBCardImage
+            style={{ height: "225px" }}
+            className="img-fluid"
+            src="https://user-images.githubusercontent.com/98043070/200177195-52a76ba0-67fd-4220-af7e-a4de71d5f5d7.png"
+            alt="Weather"
+            top
+          />
+          <MDBCardBody>
+            <MDBCardTitle tag="h5">Team Profile</MDBCardTitle>
+            <MDBCardText>
+              This website pulls data from an API to show the user the daily and
+              five day forecast for any city on earth
+            </MDBCardText>
+            <MDBBtn
+              href="https://dkilgore79.github.io/week-6-Weather-App/"
+              color="primary"
+              size="md"
+            >
+              <MDBIcon icon="clone left" className="mr-1" />
+              View Project
+            </MDBBtn>
+          </MDBCardBody>
+        </MDBCard>
+{/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */}
+      </MDBCardGroup>
+    </MDBContainer>
   );
 };
+
 
 export default Projects;

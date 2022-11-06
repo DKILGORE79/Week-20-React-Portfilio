@@ -26,7 +26,7 @@ function Footer() {
       </div>
 
       <div class="footer-copyright text-center py-3">
-        © 2020 Copyright:
+        © 2022 Copyright:
         <a href="github">
           {" "}
           Derek Kilgore

@@ -1,7 +1,7 @@
 import React from "react";
 import { MDBContainer, MDBRow, MDBCol } from "mdbreact";
-import Resume from "../assets/.pdf";
-link resume here
+import Resume from "../assets/Derek_Kilgore_Resume.pdf";
+// link resume here
 const AboutMe = () => {
   return (
     <MDBContainer className="mt-5">

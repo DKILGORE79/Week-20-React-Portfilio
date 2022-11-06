@@ -21,7 +21,7 @@ const AboutMe = () => {
           short commercials to feature length movies. My work has been featured on ESPN, FOX, CBS Sports Network and more.  
           </p>
           <p style={{ fontSize: "24px" }}>
-          I graduated from Avila University in 2001 with a Bachelors in Media Production and design. 
+          I graduated from Avila University in 2001 with a Bachelors in Communications/Media Production and Design. 
 
           I recently graduated a Full Stack Web Developer program at the University of Kansas and received certificate of completion. 
           My skills include HTML5, CSS, JavaScript, MySQL, Bootstrap, React, Photoshop , After Effects , Premiere Pro , Illustrator.

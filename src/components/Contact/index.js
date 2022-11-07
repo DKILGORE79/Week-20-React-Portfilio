@@ -1,4 +1,5 @@
 import React from "react";
+import Container from "react-bootstrap/Container";
 
 const ContactForm = () => {
   const [formStatus, setFormStatus] = React.useState('Send')
@@ -14,7 +15,8 @@ const ContactForm = () => {
     console.log(conFom)
   }
   return (
-    <div className="container mt-5">
+    <Container>
+    <div className="container text-center mt-5">    
       <h2 className="mb-3">Contact Me</h2>
       <form onSubmit={onSubmit}>
         <div className="mb-3">
@@ -40,15 +42,10 @@ const ContactForm = () => {
         </button>
       </form>
     </div>
+    </Container>
   )
-}
-        
+};
+  
 
-
-//         </MDBCol>
-//       </MDBRow>
-//     </MDBContainer>
-//   );
-// };
 
 export default ContactForm;

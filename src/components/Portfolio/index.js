@@ -45,8 +45,9 @@ function Projects() {
             <Card.Body className="text-center">
               <Card.Title>Weather Dashboard</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              A weather dashboard that uses the openweathermap api to acquire weather data for
+              the current day as well as the five day forecast and presents them to 
+              the user in a user friendly format on the user interface.
               </Card.Text>
         
               <Button className="position-sticky bottom-100"
@@ -70,8 +71,7 @@ function Projects() {
             <Card.Body className="text-center">
               <Card.Title>Day Planner</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              A calendar application that allows a user to save events for each hour of the day.
               </Card.Text>
               <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/week-5-scheduler/"
@@ -93,10 +93,10 @@ function Projects() {
               src="https://user-images.githubusercontent.com/98043070/200177789-6e15be12-946e-42c7-8b81-3994f8831351.png"
             />
             <Card.Body className="text-center">
-              <Card.Title>password gen</Card.Title>
+              <Card.Title>Random Password Generator</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              This tool help you to generate random password, this tool is created using HTML, CSS and a little JavaScript
+
               </Card.Text>
               <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/Kilgore-Random-Password-Gen/"
@@ -118,8 +118,10 @@ function Projects() {
             <Card.Body className="text-center">
               <Card.Title>Trivia Quiz</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              This application is a coding quiz application designed using JavaScript. 
+              The user is presented with different multiple choice questions. 
+              User's response it stored and a score is displayed after the quiz. 
+
               </Card.Text>
               <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/week_4_code_quiz/"
@@ -141,8 +143,9 @@ function Projects() {
             <Card.Body className="text-center">
               <Card.Title>Team Profile</Card.Title>
               <Card.Text>
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+              This application was created to generate a team profile based on user input using the Inquirer module from Node.js 
+              and displaying the information on a newly created html page with a style sheet. 
+              This project demonstrates use of OOP and TDD using Jest.
               </Card.Text>
               
               <Button className="row justify-content-between"

@@ -17,7 +17,7 @@ function Navbar() {
       style={{ width: "100%" }}
     >
       <MDBNavbarBrand>
-      <a class="navbar-brand mt-2 mt-lg-0" href="#"></a>
+        
       <img
           src="https://user-images.githubusercontent.com/98043070/200184578-4b51b7cb-3cc8-4859-9985-0f35084682f4.png"
           height="60"

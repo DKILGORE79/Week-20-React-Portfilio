@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import ResumePage from "./pages/ResumePage";
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (

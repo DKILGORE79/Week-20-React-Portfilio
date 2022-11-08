@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/github.io/Week-20-React-Portfilio/static/css/main.4e414818.chunk.css",
-    "main.js": "/github.io/Week-20-React-Portfilio/static/js/main.8b518514.chunk.js",
-    "main.js.map": "/github.io/Week-20-React-Portfilio/static/js/main.8b518514.chunk.js.map",
+    "main.js": "/github.io/Week-20-React-Portfilio/static/js/main.629137fc.chunk.js",
+    "main.js.map": "/github.io/Week-20-React-Portfilio/static/js/main.629137fc.chunk.js.map",
     "runtime-main.js": "/github.io/Week-20-React-Portfilio/static/js/runtime-main.e0f145ff.js",
     "runtime-main.js.map": "/github.io/Week-20-React-Portfilio/static/js/runtime-main.e0f145ff.js.map",
     "static/css/2.2f5a6032.chunk.css": "/github.io/Week-20-React-Portfilio/static/css/2.2f5a6032.chunk.css",
-    "static/js/2.df0fc136.chunk.js": "/github.io/Week-20-React-Portfilio/static/js/2.df0fc136.chunk.js",
-    "static/js/2.df0fc136.chunk.js.map": "/github.io/Week-20-React-Portfilio/static/js/2.df0fc136.chunk.js.map",
+    "static/js/2.58e87d73.chunk.js": "/github.io/Week-20-React-Portfilio/static/js/2.58e87d73.chunk.js",
+    "static/js/2.58e87d73.chunk.js.map": "/github.io/Week-20-React-Portfilio/static/js/2.58e87d73.chunk.js.map",
     "index.html": "/github.io/Week-20-React-Portfilio/index.html",
-    "precache-manifest.a962f16a344954e20483cbd70b441f1a.js": "/github.io/Week-20-React-Portfilio/precache-manifest.a962f16a344954e20483cbd70b441f1a.js",
+    "precache-manifest.55afe629c09323e2df714dd044eb7c0a.js": "/github.io/Week-20-React-Portfilio/precache-manifest.55afe629c09323e2df714dd044eb7c0a.js",
     "service-worker.js": "/github.io/Week-20-React-Portfilio/service-worker.js",
     "static/css/2.2f5a6032.chunk.css.map": "/github.io/Week-20-React-Portfilio/static/css/2.2f5a6032.chunk.css.map",
     "static/css/main.4e414818.chunk.css.map": "/github.io/Week-20-React-Portfilio/static/css/main.4e414818.chunk.css.map",
-    "static/js/2.df0fc136.chunk.js.LICENSE.txt": "/github.io/Week-20-React-Portfilio/static/js/2.df0fc136.chunk.js.LICENSE.txt",
+    "static/js/2.58e87d73.chunk.js.LICENSE.txt": "/github.io/Week-20-React-Portfilio/static/js/2.58e87d73.chunk.js.LICENSE.txt",
     "static/media/Derek_Kilgore_Resume.pdf": "/github.io/Week-20-React-Portfilio/static/media/Derek_Kilgore_Resume.84931527.pdf",
     "static/media/mdb.css": "/github.io/Week-20-React-Portfilio/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/github.io/Week-20-React-Portfilio/static/media/fa-solid-900.d824df7e.woff2"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.e0f145ff.js",
     "static/css/2.2f5a6032.chunk.css",
-    "static/js/2.df0fc136.chunk.js",
+    "static/js/2.58e87d73.chunk.js",
     "static/css/main.4e414818.chunk.css",
-    "static/js/main.8b518514.chunk.js"
+    "static/js/main.629137fc.chunk.js"
   ]
 }

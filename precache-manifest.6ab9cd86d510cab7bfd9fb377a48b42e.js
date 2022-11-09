@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36067e69820c205200d9049359232bb5",
+    "revision": "7e103dc43358d112f130493f2761d23b",
     "url": "/github.io/Week-20-React-Portfilio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/Week-20-React-Portfilio/static/css/2.2f5a6032.chunk.css"
   },
   {
-    "revision": "8a3f699523c00febe4d1",
+    "revision": "57dccca9522f85e6859f",
     "url": "/github.io/Week-20-React-Portfilio/static/css/main.4e414818.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/Week-20-React-Portfilio/static/js/2.58e87d73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a3f699523c00febe4d1",
-    "url": "/github.io/Week-20-React-Portfilio/static/js/main.629137fc.chunk.js"
+    "revision": "57dccca9522f85e6859f",
+    "url": "/github.io/Week-20-React-Portfilio/static/js/main.d8c99a0e.chunk.js"
   },
   {
     "revision": "765864f40123e0cdb7b6",

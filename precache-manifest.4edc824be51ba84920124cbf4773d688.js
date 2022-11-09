@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c3203a4878de78c548d6e4a38692938",
+    "revision": "d8b7a0abea232d330c1699aa385e6856",
     "url": "/Week-20-React-Portfilio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Week-20-React-Portfilio/static/css/2.f7152faf.chunk.css"
   },
   {
-    "revision": "57dccca9522f85e6859f",
+    "revision": "d920506098b1c67ff271",
     "url": "/Week-20-React-Portfilio/static/css/main.4e414818.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Week-20-React-Portfilio/static/js/2.58e87d73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57dccca9522f85e6859f",
-    "url": "/Week-20-React-Portfilio/static/js/main.d8c99a0e.chunk.js"
+    "revision": "d920506098b1c67ff271",
+    "url": "/Week-20-React-Portfilio/static/js/main.2401bf4e.chunk.js"
   },
   {
     "revision": "1df396d38449d14214bf",

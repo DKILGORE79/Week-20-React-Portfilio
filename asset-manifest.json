@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Week-20-React-Portfilio/static/css/main.4e414818.chunk.css",
-    "main.js": "/Week-20-React-Portfilio/static/js/main.d8c99a0e.chunk.js",
-    "main.js.map": "/Week-20-React-Portfilio/static/js/main.d8c99a0e.chunk.js.map",
+    "main.js": "/Week-20-React-Portfilio/static/js/main.2401bf4e.chunk.js",
+    "main.js.map": "/Week-20-React-Portfilio/static/js/main.2401bf4e.chunk.js.map",
     "runtime-main.js": "/Week-20-React-Portfilio/static/js/runtime-main.91a7b470.js",
     "runtime-main.js.map": "/Week-20-React-Portfilio/static/js/runtime-main.91a7b470.js.map",
     "static/css/2.f7152faf.chunk.css": "/Week-20-React-Portfilio/static/css/2.f7152faf.chunk.css",
     "static/js/2.58e87d73.chunk.js": "/Week-20-React-Portfilio/static/js/2.58e87d73.chunk.js",
     "static/js/2.58e87d73.chunk.js.map": "/Week-20-React-Portfilio/static/js/2.58e87d73.chunk.js.map",
     "index.html": "/Week-20-React-Portfilio/index.html",
-    "precache-manifest.861961c43b207d01e679dc37267b38c1.js": "/Week-20-React-Portfilio/precache-manifest.861961c43b207d01e679dc37267b38c1.js",
+    "precache-manifest.4edc824be51ba84920124cbf4773d688.js": "/Week-20-React-Portfilio/precache-manifest.4edc824be51ba84920124cbf4773d688.js",
     "service-worker.js": "/Week-20-React-Portfilio/service-worker.js",
     "static/css/2.f7152faf.chunk.css.map": "/Week-20-React-Portfilio/static/css/2.f7152faf.chunk.css.map",
     "static/css/main.4e414818.chunk.css.map": "/Week-20-React-Portfilio/static/css/main.4e414818.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.f7152faf.chunk.css",
     "static/js/2.58e87d73.chunk.js",
     "static/css/main.4e414818.chunk.css",
-    "static/js/main.d8c99a0e.chunk.js"
+    "static/js/main.2401bf4e.chunk.js"
   ]
 }

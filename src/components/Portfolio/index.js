@@ -24,7 +24,7 @@ function Projects() {
                 based on their responses.
               </Card.Text>
          
-              <Button className="position-sticky bottom-100"
+              <Button className="row justify-content-between"
                 href="https://github.com/DKILGORE79/Pro_Readme_Generator"
                 variant="primary"
               >
@@ -50,7 +50,7 @@ function Projects() {
               the user in a user friendly format on the user interface.
               </Card.Text>
         
-              <Button className="position-sticky bottom-100"
+              <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/week-6-Weather-App/"
                 variant="primary"
               >

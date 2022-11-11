@@ -26,7 +26,7 @@ function Projects() {
          
               <Button className="row justify-content-between"
                 href="https://github.com/DKILGORE79/Pro_Readme_Generator"
-                variant="primary"
+                variant="warning"
               >
                 View Project
               </Button>
@@ -52,7 +52,7 @@ function Projects() {
         
               <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/week-6-Weather-App/"
-                variant="primary"
+                variant="warning"
               >
                 View Project
               </Button>
@@ -75,7 +75,7 @@ function Projects() {
               </Card.Text>
               <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/week-5-scheduler/"
-                variant="primary"
+                variant="warning"
               >
                 View Project
               </Button>
@@ -100,7 +100,7 @@ function Projects() {
               </Card.Text>
               <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/Kilgore-Random-Password-Gen/"
-                variant="primary"
+                variant="warning"
               >
                 View Project
               </Button>
@@ -125,7 +125,7 @@ function Projects() {
               </Card.Text>
               <Button className="row justify-content-between"
                 href="https://dkilgore79.github.io/week_4_code_quiz/"
-                variant="primary"
+                variant="warning"
               >
                 View Project
               </Button>
@@ -150,7 +150,7 @@ function Projects() {
               
               <Button className="row justify-content-between"
                 href="https://github.com/DKILGORE79/week-10-Team-Profile-Generator"
-                variant="primary"
+                variant="warning"
               >
                 View Project
               </Button>
